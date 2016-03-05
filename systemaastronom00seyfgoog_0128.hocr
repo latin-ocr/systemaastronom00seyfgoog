@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemaastronom00seyfgoog_0128.png"; bbox 0 0 4896 6096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 906 1599 1291 1686">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 906 1599 1291 1686">
+     <span class='ocr_line' id='line_1_1' title="bbox 906 1599 1291 1686; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 906 1599 1164 1686; x_wconf 85' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1230 1603 1291 1685; x_wconf 85' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 245 1915 1938 2096">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 245 1915 1938 2096">
+     <span class='ocr_line' id='line_1_2' title="bbox 245 1915 1938 2096; baseline -0.006 -66"><span class='ocrx_word' id='word_1_3' title='bbox 245 1920 663 2096; x_wconf 59' lang='grc' dir='ltr'><strong>ΡΑΝΤΗΕΟΝ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 704 1915 1271 2026; x_wconf 79' lang='lat' dir='ltr'><strong>AEGYPTIORUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1324 1918 1938 2026; x_wconf 77' lang='lat' dir='ltr'>ASTRONOMICUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 430 2543 1755 2627">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 430 2543 1755 2627">
+     <span class='ocr_line' id='line_1_3' title="bbox 430 2543 1755 2627; baseline -0.001 -6"><span class='ocrx_word' id='word_1_6' title='bbox 430 2543 761 2622; x_wconf 83' lang='lat' dir='ltr'>SYMBOLICE</span> <span class='ocrx_word' id='word_1_7' title='bbox 792 2545 1755 2627; x_wconf 76' lang='lat' dir='ltr'><strong>ASTRONOMICO-HIEROGLYPHICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2452 6096">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2452 6096">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2452 6096; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2452 6096; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

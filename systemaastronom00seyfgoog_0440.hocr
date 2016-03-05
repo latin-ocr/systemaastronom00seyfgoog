@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemaastronom00seyfgoog_0440.png"; bbox 0 0 4830 6102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 841 1679 1338 1768">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 841 1679 1338 1768">
+     <span class='ocr_line' id='line_1_1' title="bbox 841 1679 1338 1768; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 841 1679 1099 1768; x_wconf 75' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1154 1681 1338 1765; x_wconf 87' lang='lat' dir='ltr'><strong>1V.·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 157 1969 1913 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 157 1969 1913 2148">
+     <span class='ocr_line' id='line_1_2' title="bbox 157 1969 1913 2148; baseline -0.001 -29"><span class='ocrx_word' id='word_1_3' title='bbox 157 2013 489 2120; x_wconf 71' lang='lat' dir='ltr'>LExlcoN</span> <span class='ocrx_word' id='word_1_4' title='bbox 544 1969 1105 2123; x_wconf 74' lang='lat' dir='ltr'><strong>ASTRONomlco</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1136 2080 1160 2098; x_wconf 89' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 1197 1971 1913 2148; x_wconf 71' lang='lat' dir='ltr'><strong>ufflnofflpnmum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 300 2673 1777 2756">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 300 2673 1777 2756">
+     <span class='ocr_line' id='line_1_3' title="bbox 300 2673 1777 2756; baseline -0.001 -5"><span class='ocrx_word' id='word_1_7' title='bbox 300 2677 633 2756; x_wconf 80' lang='lat' dir='ltr'><strong>PERMULTIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 664 2675 902 2755; x_wconf 74' lang='lat' dir='ltr'>Flemus</span> <span class='ocrx_word' id='word_1_9' title='bbox 935 2673 1434 2754; x_wconf 75' lang='lat' dir='ltr'>HIEROGLYPHICIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1461 2675 1777 2752; x_wconf 71' lang='lat' dir='ltr'><strong>IMPRESSIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 796 3197 1276 3212">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 796 3197 1276 3212">
+     <span class='ocr_line' id='line_1_4' title="bbox 796 3197 1276 3212; baseline 0 -2"><span class='ocrx_word' id='word_1_11' title='bbox 796 3197 1276 3212; x_wconf 59' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2420 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2420 6100">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2420 6100; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2420 6100; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
